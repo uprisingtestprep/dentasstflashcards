@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "chapter": 1,
+    "front": "What does NDAEB stand for?",
+    "back": "The National Dental Assisting Examining Board assesses entry-level dental assisting competence in Canada."
+  },
+  {
+    "id": 2,
+    "chapter": 1,
+    "front": "What is the purpose of provincial registration?",
+    "back": "The province or territory confirms local requirements before an assistant practises under its rules."
+  },
+  {
+    "id": 3,
+    "chapter": 1,
+    "front": "Can an employer create legal scope?",
+    "back": "An employer cannot authorize a task that the applicable law or regulator does not permit."
+  },
+  {
+    "id": 4,
+    "chapter": 1,
+    "front": "What are the seven NDAEB domains?",
+    "back": "They cover ethics, dental sciences, clinical support, records, patient care, management, and prevention."
+  },
+  {
+    "id": 5,
+    "chapter": 1,
+    "front": "Why should scope be checked after moving?",
+    "back": "Registration, supervision, and delegated tasks can differ between Canadian provinces and territories."
+  },
+  {
+    "id": 6,
+    "chapter": 1,
+    "front": "What does entry-level competence mean?",
+    "back": "It is the knowledge, skill, judgement, and behaviour expected before beginning independent practice."
+  },
+  {
+    "id": 7,
+    "chapter": 1,
+    "front": "What records should an assistant keep current?",
+    "back": "Track registration, certification, first aid, CPR, insurance, and required continuing education dates."
+  },
+  {
+    "id": 8,
+    "chapter": 1,
+    "front": "What is a protected title?",
+    "back": "It is a professional name that only people meeting legal registration requirements may use."
+  },
+  {
+    "id": 9,
+    "chapter": 1,
+    "front": "What should happen when a task is unclear?",
+    "back": "Pause the task and verify authority with the regulator, supervisor, and employer before proceeding."
+  },
+  {
+    "id": 10,
+    "chapter": 1,
+    "front": "What is the role of the dental assistant?",
+    "back": "The assistant supports safe treatment, records, infection control, prevention, and patient communication."
+  },
+  {
+    "id": 11,
+    "chapter": 1,
+    "front": "What is the NDAEB theory exam format?",
+    "back": "It is a computer-based examination with 200 multiple-choice items and a four-hour limit."
+  },
+  {
+    "id": 12,
+    "chapter": 1,
+    "front": "Which NDAEB domain has the largest share?",
+    "back": "Patient Care Procedures has an approximate published blueprint share of 40 to 50 percent."
+  },
+  {
+    "id": 13,
+    "chapter": 1,
+    "front": "Why is national certification not enough?",
+    "back": "Provincial or territorial registration and local practice requirements may still apply."
+  },
+  {
+    "id": 14,
+    "chapter": 1,
+    "front": "What does supervision mean?",
+    "back": "It describes how and where an authorized clinician must be available while a task is performed."
+  },
+  {
+    "id": 15,
+    "chapter": 1,
+    "front": "What is professional accountability?",
+    "back": "It means maintaining competence, following standards, reporting concerns, and working within scope."
+  },
+  {
+    "id": 16,
+    "chapter": 1,
+    "front": "Why is patient trust part of technical care?",
+    "back": "Respectful communication and confidentiality help patients participate safely in their care decisions."
+  },
+  {
+    "id": 17,
+    "chapter": 2,
+    "front": "What is informed consent?",
+    "back": "It is a voluntary decision made by a capable patient after appropriate disclosure of relevant information."
+  },
+  {
+    "id": 18,
+    "chapter": 2,
+    "front": "What are the four elements of valid consent?",
+    "back": "They are capacity, disclosure, voluntariness, and authorization for the specific proposed care."
+  },
+  {
+    "id": 19,
+    "chapter": 2,
+    "front": "Is a signature enough for consent?",
+    "back": "No, documentation supports the discussion but does not replace understanding or voluntary choice."
+  },
+  {
+    "id": 20,
+    "chapter": 2,
+    "front": "Can a patient limit consent?",
+    "back": "Yes, a patient may accept some care while refusing a specific test or step."
+  },
+  {
+    "id": 21,
+    "chapter": 2,
+    "front": "What is decision-specific capacity?",
+    "back": "It means a person may understand one decision while needing support for a more complex decision."
+  },
+  {
+    "id": 22,
+    "chapter": 2,
+    "front": "What should happen if a patient withdraws consent?",
+    "back": "Stop safely and clarify what care may continue under the revised decision."
+  },
+  {
+    "id": 23,
+    "chapter": 2,
+    "front": "What is a privacy breach?",
+    "back": "It is unauthorized access, use, disclosure, loss, or alteration of personal health information."
+  },
+  {
+    "id": 24,
+    "chapter": 2,
+    "front": "How should a privacy incident be handled?",
+    "back": "Report it promptly through the approved process so harm and notification needs can be assessed."
+  },
+  {
+    "id": 25,
+    "chapter": 2,
+    "front": "How should record errors be corrected?",
+    "back": "Use the approved correction method and preserve a clear, attributable audit trail."
+  },
+  {
+    "id": 26,
+    "chapter": 2,
+    "front": "What is professional boundary setting?",
+    "back": "It is maintaining respectful limits that protect patients, trust, and the care relationship."
+  },
+  {
+    "id": 27,
+    "chapter": 2,
+    "front": "Why are public conversations risky?",
+    "back": "Waiting rooms, elevators, and group chats may expose patient information to unauthorized listeners."
+  },
+  {
+    "id": 28,
+    "chapter": 2,
+    "front": "When may a record be accessed?",
+    "back": "Only for a legitimate care, administrative, quality, or legally authorized purpose."
+  },
+  {
+    "id": 29,
+    "chapter": 2,
+    "front": "What is substitute decision-making?",
+    "back": "It is a lawful process used when a patient cannot make a particular health decision."
+  },
+  {
+    "id": 30,
+    "chapter": 2,
+    "front": "Why is honesty about mistakes important?",
+    "back": "Prompt reporting allows the team to protect the patient, correct the record, and prevent recurrence."
+  },
+  {
+    "id": 31,
+    "chapter": 2,
+    "front": "What is conflict of interest?",
+    "back": "It is a personal or financial interest that may improperly influence professional judgement."
+  },
+  {
+    "id": 32,
+    "chapter": 2,
+    "front": "What should be documented after consent?",
+    "back": "Record the discussion, questions, decision, and any limits in the approved record."
+  },
+  {
+    "id": 33,
+    "chapter": 3,
+    "front": "What is plain language?",
+    "back": "It presents information clearly with familiar words, short structure, and one main idea at a time."
+  },
+  {
+    "id": 34,
+    "chapter": 3,
+    "front": "What is teach-back?",
+    "back": "The patient explains the plan in their own words so the team can check understanding."
+  },
+  {
+    "id": 35,
+    "chapter": 3,
+    "front": "What are the teach-back steps?",
+    "back": "Explain, ask, check, and clarify only the part that remains unclear."
+  },
+  {
+    "id": 36,
+    "chapter": 3,
+    "front": "When is a qualified interpreter needed?",
+    "back": "Use one when language differences could affect consent, safety, privacy, or understanding."
+  },
+  {
+    "id": 37,
+    "chapter": 3,
+    "front": "Should a child interpret clinical information?",
+    "back": "Children should not carry sensitive clinical interpretation or substitute for a qualified interpreter."
+  },
+  {
+    "id": 38,
+    "chapter": 3,
+    "front": "What is trauma-informed communication?",
+    "back": "It offers choice, explanation, privacy, and respect while avoiding pressure to disclose trauma."
+  },
+  {
+    "id": 39,
+    "chapter": 3,
+    "front": "What is cultural safety?",
+    "back": "It means the patient experiences care as respectful and free from racism and discrimination."
+  },
+  {
+    "id": 40,
+    "chapter": 3,
+    "front": "What is cultural humility?",
+    "back": "It is ongoing reflection about assumptions, power, and the limits of one person's cultural knowledge."
+  },
+  {
+    "id": 41,
+    "chapter": 3,
+    "front": "How should a stop signal be used?",
+    "back": "Agree on the signal before treatment and pause as soon as the patient uses it."
+  },
+  {
+    "id": 42,
+    "chapter": 3,
+    "front": "Why should a patient's name be confirmed?",
+    "back": "Using the correct name and pronoun supports dignity, identity, and accurate records."
+  },
+  {
+    "id": 43,
+    "chapter": 3,
+    "front": "What helps a patient with a communication disability?",
+    "back": "Ask about preferred methods and use the approved supports the patient identifies."
+  },
+  {
+    "id": 44,
+    "chapter": 3,
+    "front": "Why is confidential speech important?",
+    "back": "Sensitive information should not be announced in a waiting room or public setting."
+  },
+  {
+    "id": 45,
+    "chapter": 3,
+    "front": "How should a small communication error be repaired?",
+    "back": "Name what happened, accept responsibility, and state the corrective action."
+  },
+  {
+    "id": 46,
+    "chapter": 3,
+    "front": "What is an appropriate response to discrimination?",
+    "back": "Recognize it, respond safely, follow the workplace process, and protect respectful care."
+  },
+  {
+    "id": 47,
+    "chapter": 3,
+    "front": "Why use visual supports?",
+    "back": "Models, diagrams, and written steps can make instructions easier to understand and recall."
+  },
+  {
+    "id": 48,
+    "chapter": 3,
+    "front": "What should the team check after teaching?",
+    "back": "Ask the patient or caregiver to explain the key instruction back in their own words."
+  },
+  {
+    "id": 49,
+    "chapter": 4,
+    "front": "What is pre-arrival planning?",
+    "back": "Review alerts, consent, equipment, supplies, access needs, and unfinished follow-up before the patient arrives."
+  },
+  {
+    "id": 50,
+    "chapter": 4,
+    "front": "What happens at arrival?",
+    "back": "Confirm identity, reason for visit, changes in health, and immediate concerns."
+  },
+  {
+    "id": 51,
+    "chapter": 4,
+    "front": "What is a closed-loop handoff?",
+    "back": "The sender names the message, the receiver repeats it, and any mismatch is corrected."
+  },
+  {
+    "id": 52,
+    "chapter": 4,
+    "front": "Why are pause rules used?",
+    "back": "High-risk steps such as counts and alerts should not be interrupted by routine tasks."
+  },
+  {
+    "id": 53,
+    "chapter": 4,
+    "front": "What is a speak-up culture?",
+    "back": "Any team member can pause or report unsafe care without fear of retaliation."
+  },
+  {
+    "id": 54,
+    "chapter": 4,
+    "front": "Why should critical information be written?",
+    "back": "The approved record preserves the alert and reduces reliance on memory."
+  },
+  {
+    "id": 55,
+    "chapter": 4,
+    "front": "What is the treatment-stage priority?",
+    "back": "Maintain visibility, field control, airway safety, supplies, and accurate documentation."
+  },
+  {
+    "id": 56,
+    "chapter": 4,
+    "front": "What belongs in handoff?",
+    "back": "Completed care, materials, specimens, instructions, follow-up, and unresolved concerns."
+  },
+  {
+    "id": 57,
+    "chapter": 4,
+    "front": "How should scheduling support safety?",
+    "back": "Allow realistic time for assessment, treatment, room turnover, and urgent needs."
+  },
+  {
+    "id": 58,
+    "chapter": 4,
+    "front": "What is inventory rotation?",
+    "back": "Use and replace supplies in a planned order that respects expiry dates and storage rules."
+  },
+  {
+    "id": 59,
+    "chapter": 4,
+    "front": "When should equipment be reported?",
+    "back": "Report damage or uncertain performance promptly and remove unsafe equipment from use."
+  },
+  {
+    "id": 60,
+    "chapter": 4,
+    "front": "Why should team roles be explicit?",
+    "back": "Clear responsibility prevents tasks from being missed or performed beyond authority."
+  },
+  {
+    "id": 61,
+    "chapter": 4,
+    "front": "What is an interprofessional dental team?",
+    "back": "It includes clinical, administrative, and support roles working within their own education and law."
+  },
+  {
+    "id": 62,
+    "chapter": 4,
+    "front": "Why is a medical alert important?",
+    "back": "It can change treatment, medication review, emergency planning, and supervision needs."
+  },
+  {
+    "id": 63,
+    "chapter": 4,
+    "front": "What is a handoff risk?",
+    "back": "Information can be lost, delayed, misheard, or sent to the wrong person."
+  },
+  {
+    "id": 64,
+    "chapter": 4,
+    "front": "What should happen after an unlabelled item is found?",
+    "back": "Stop, identify and control the item, and report the event through the safety process."
+  },
+  {
+    "id": 65,
+    "chapter": 5,
+    "front": "What is a root in a medical term?",
+    "back": "It carries the main meaning, as odont does in words about teeth."
+  },
+  {
+    "id": 66,
+    "chapter": 5,
+    "front": "What does the suffix itis mean?",
+    "back": "It means inflammation, as in gingivitis or arthritis."
+  },
+  {
+    "id": 67,
+    "chapter": 5,
+    "front": "What is SOAP?",
+    "back": "It organizes a note into Subjective, Objective, Assessment, and Plan sections."
+  },
+  {
+    "id": 68,
+    "chapter": 5,
+    "front": "What belongs in Subjective?",
+    "back": "The patient's reported history, symptoms, concerns, and exact meaningful words."
+  },
+  {
+    "id": 69,
+    "chapter": 5,
+    "front": "What belongs in Objective?",
+    "back": "Observed findings, measurements, test results, and other factual clinical information."
+  },
+  {
+    "id": 70,
+    "chapter": 5,
+    "front": "Who writes the clinician Assessment?",
+    "back": "An authorized clinician interprets the findings within their own professional scope."
+  },
+  {
+    "id": 71,
+    "chapter": 5,
+    "front": "What belongs in Plan?",
+    "back": "Treatment, prevention, follow-up, referrals, and patient instructions are recorded."
+  },
+  {
+    "id": 72,
+    "chapter": 5,
+    "front": "What makes a record contemporaneous?",
+    "back": "It is entered at the time of care or as soon as reasonably possible afterward."
+  },
+  {
+    "id": 73,
+    "chapter": 5,
+    "front": "What is an attributable entry?",
+    "back": "It can be traced to the person, date, and time responsible for the entry."
+  },
+  {
+    "id": 74,
+    "chapter": 5,
+    "front": "How should a late entry be handled?",
+    "back": "Record it honestly with the correct date and time and explain the delay as policy requires."
+  },
+  {
+    "id": 75,
+    "chapter": 5,
+    "front": "Why are units required?",
+    "back": "A number without a unit can be misread and can change clinical meaning."
+  },
+  {
+    "id": 76,
+    "chapter": 5,
+    "front": "How should a patient's exact words be used?",
+    "back": "Quote them when the wording adds important clinical meaning and privacy is protected."
+  },
+  {
+    "id": 77,
+    "chapter": 5,
+    "front": "What is a privacy-safe message?",
+    "back": "It uses an approved system, necessary content, correct recipient, and confirmed patient authorization."
+  },
+  {
+    "id": 78,
+    "chapter": 5,
+    "front": "Why should abbreviations be controlled?",
+    "back": "An unapproved abbreviation may have several meanings and cause a communication error."
+  },
+  {
+    "id": 79,
+    "chapter": 5,
+    "front": "What happens when a message cannot be delivered?",
+    "back": "Record the attempt, protect privacy, and follow the practice's follow-up process."
+  },
+  {
+    "id": 80,
+    "chapter": 5,
+    "front": "What is an audit trail?",
+    "back": "It shows who created, viewed, changed, or corrected a record and when."
+  },
+  {
+    "id": 81,
+    "chapter": 6,
+    "front": "Where is the vestibule in the mouth?",
+    "back": "It is the space between the lips or cheeks and the teeth."
+  },
+  {
+    "id": 82,
+    "chapter": 6,
+    "front": "What is the oral cavity proper?",
+    "back": "It is the space inside the dental arches, including the tongue and floor of the mouth."
+  },
+  {
+    "id": 83,
+    "chapter": 6,
+    "front": "What bone forms the upper jaw?",
+    "back": "The maxilla forms the upper jaw and contributes to the palate and facial skeleton."
+  },
+  {
+    "id": 84,
+    "chapter": 6,
+    "front": "What is the mandible?",
+    "back": "It is the lower jaw, with a body, ramus, angle, condyle, and coronoid process."
+  },
+  {
+    "id": 85,
+    "chapter": 6,
+    "front": "What is the temporomandibular joint?",
+    "back": "It is the joint between the mandibular condyle and temporal bone, with rotation and translation."
+  },
+  {
+    "id": 86,
+    "chapter": 6,
+    "front": "Which muscles move the mandible?",
+    "back": "The masseter, temporalis, medial pterygoid, and lateral pterygoid are major muscles of mastication."
+  },
+  {
+    "id": 87,
+    "chapter": 6,
+    "front": "What does the trigeminal nerve do?",
+    "back": "It provides most facial sensation and motor supply to the muscles of mastication."
+  },
+  {
+    "id": 88,
+    "chapter": 6,
+    "front": "What does the facial nerve do?",
+    "back": "It supplies the muscles of facial expression and carries some taste information."
+  },
+  {
+    "id": 89,
+    "chapter": 6,
+    "front": "Where does the parotid duct open?",
+    "back": "It opens in the upper vestibule beside the maxillary second molar."
+  },
+  {
+    "id": 90,
+    "chapter": 6,
+    "front": "Where does the submandibular duct open?",
+    "back": "It opens near the lingual frenum under the tongue."
+  },
+  {
+    "id": 91,
+    "chapter": 6,
+    "front": "Why is the airway shared with the mouth?",
+    "back": "Fluids or objects can pass from the oral cavity toward the pharynx and airway."
+  },
+  {
+    "id": 92,
+    "chapter": 6,
+    "front": "What is the mental foramen?",
+    "back": "It is a mandibular opening associated with the mental nerve and vessels."
+  },
+  {
+    "id": 93,
+    "chapter": 6,
+    "front": "What is the maxillary tuberosity?",
+    "back": "It is the rounded posterior region of the maxillary alveolar process."
+  },
+  {
+    "id": 94,
+    "chapter": 6,
+    "front": "What is the retromolar pad?",
+    "back": "It is soft tissue behind the mandibular last molar, important in denture support."
+  },
+  {
+    "id": 95,
+    "chapter": 6,
+    "front": "Why should retraction be gentle?",
+    "back": "Pressure can injure nerves, vessels, mucosa, and the temporomandibular joint."
+  },
+  {
+    "id": 96,
+    "chapter": 6,
+    "front": "Which structures protect the airway during treatment?",
+    "back": "Positioning, suction, isolation, visibility, and instrument control work together."
+  },
+  {
+    "id": 97,
+    "chapter": 7,
+    "front": "How many teeth are in a complete permanent dentition?",
+    "back": "A complete permanent dentition has 32 teeth when all third molars are present."
+  },
+  {
+    "id": 98,
+    "chapter": 7,
+    "front": "How many teeth are in a complete primary dentition?",
+    "back": "A complete primary dentition has 20 teeth, ten in each arch."
+  },
+  {
+    "id": 99,
+    "chapter": 7,
+    "front": "What are the permanent tooth groups?",
+    "back": "Each side has incisors, one canine, two premolars, and three molars."
+  },
+  {
+    "id": 100,
+    "chapter": 7,
+    "front": "What are the primary tooth groups?",
+    "back": "Each side has incisors, one canine, and two molars."
+  },
+  {
+    "id": 101,
+    "chapter": 7,
+    "front": "What is the crown of a tooth?",
+    "back": "It is the portion normally covered by enamel above the gum."
+  },
+  {
+    "id": 102,
+    "chapter": 7,
+    "front": "What is the root of a tooth?",
+    "back": "It is the portion covered by cementum and attached by the periodontal ligament."
+  },
+  {
+    "id": 103,
+    "chapter": 7,
+    "front": "What does mesial mean?",
+    "back": "It means toward the dental midline."
+  },
+  {
+    "id": 104,
+    "chapter": 7,
+    "front": "What does distal mean?",
+    "back": "It means away from the dental midline along the dental arch."
+  },
+  {
+    "id": 105,
+    "chapter": 7,
+    "front": "What is the occlusal surface?",
+    "back": "It is the chewing surface of posterior teeth."
+  },
+  {
+    "id": 106,
+    "chapter": 7,
+    "front": "What is the incisal edge?",
+    "back": "It is the cutting edge of an anterior tooth."
+  },
+  {
+    "id": 107,
+    "chapter": 7,
+    "front": "What is a premolar?",
+    "back": "It is a permanent tooth located between the canine and molars."
+  },
+  {
+    "id": 108,
+    "chapter": 7,
+    "front": "How does a primary molar differ from a permanent molar?",
+    "back": "Primary teeth generally have thinner enamel and a pulp chamber large relative to the crown."
+  },
+  {
+    "id": 109,
+    "chapter": 7,
+    "front": "What is an embrasure?",
+    "back": "It is the space between adjacent teeth near the contact and surrounding tissue."
+  },
+  {
+    "id": 110,
+    "chapter": 7,
+    "front": "What is FDI quadrant 4?",
+    "back": "It is the permanent lower right quadrant as viewed from the patient."
+  },
+  {
+    "id": 111,
+    "chapter": 7,
+    "front": "What is FDI quadrant 3?",
+    "back": "It is the permanent lower left quadrant as viewed from the patient."
+  },
+  {
+    "id": 112,
+    "chapter": 7,
+    "front": "Why should primary teeth be protected?",
+    "back": "They support chewing, speech, growth, and the position of developing permanent teeth."
+  },
+  {
+    "id": 113,
+    "chapter": 8,
+    "front": "What are ameloblasts?",
+    "back": "They are the cells that form enamel during tooth development."
+  },
+  {
+    "id": 114,
+    "chapter": 8,
+    "front": "What are odontoblasts?",
+    "back": "They are the cells that form dentine throughout tooth development and after eruption."
+  },
+  {
+    "id": 115,
+    "chapter": 8,
+    "front": "What is the dental lamina?",
+    "back": "It is the early epithelial band that initiates the developing tooth germ."
+  },
+  {
+    "id": 116,
+    "chapter": 8,
+    "front": "What is the dental papilla?",
+    "back": "It contributes dentine and pulp to the developing tooth."
+  },
+  {
+    "id": 117,
+    "chapter": 8,
+    "front": "What is the dental follicle?",
+    "back": "It contributes cementum, periodontal ligament, and alveolar bone support."
+  },
+  {
+    "id": 118,
+    "chapter": 8,
+    "front": "Why is enamel unable to regenerate?",
+    "back": "Mature enamel is highly mineralized and acellular after its formation is complete."
+  },
+  {
+    "id": 119,
+    "chapter": 8,
+    "front": "What is dentine?",
+    "back": "It is a mineralized tissue containing tubules and processes from odontoblasts."
+  },
+  {
+    "id": 120,
+    "chapter": 8,
+    "front": "What is pulp?",
+    "back": "It contains connective tissue, nerves, vessels, and immune cells inside the tooth."
+  },
+  {
+    "id": 121,
+    "chapter": 8,
+    "front": "What is eruption?",
+    "back": "It is movement from the developing position toward functional oral position."
+  },
+  {
+    "id": 122,
+    "chapter": 8,
+    "front": "When does a mandibular primary central incisor usually erupt?",
+    "back": "A typical window is 6 to 10 months, but healthy children vary."
+  },
+  {
+    "id": 123,
+    "chapter": 8,
+    "front": "When does a primary first molar usually erupt?",
+    "back": "A typical window is 13 to 19 months, with normal individual variation."
+  },
+  {
+    "id": 124,
+    "chapter": 8,
+    "front": "What is mixed dentition?",
+    "back": "It is the stage when primary and permanent teeth are present together."
+  },
+  {
+    "id": 125,
+    "chapter": 8,
+    "front": "What is shedding?",
+    "back": "It is loss of a primary tooth after root resorption and eruption of its successor."
+  },
+  {
+    "id": 126,
+    "chapter": 8,
+    "front": "What is masticatory mucosa?",
+    "back": "It covers the gingiva and hard palate and is adapted to friction."
+  },
+  {
+    "id": 127,
+    "chapter": 8,
+    "front": "What is specialized mucosa?",
+    "back": "It covers the tongue dorsum and includes structures associated with taste."
+  },
+  {
+    "id": 128,
+    "chapter": 8,
+    "front": "Why can teething not explain every symptom?",
+    "back": "High fever or severe illness requires assessment rather than automatic blame on eruption."
+  },
+  {
+    "id": 129,
+    "chapter": 9,
+    "front": "What is dental biofilm?",
+    "back": "It is an organized community of microorganisms attached to tooth and tissue surfaces."
+  },
+  {
+    "id": 130,
+    "chapter": 9,
+    "front": "How does caries begin?",
+    "back": "Frequent acid production can demineralize enamel and dentine faster than repair."
+  },
+  {
+    "id": 131,
+    "chapter": 9,
+    "front": "What is the critical pH for enamel?",
+    "back": "About 5.5 is commonly used as the point when enamel demineralization becomes favoured."
+  },
+  {
+    "id": 132,
+    "chapter": 9,
+    "front": "What does saliva do for the teeth?",
+    "back": "It buffers acid, supplies minerals, lubricates tissue, and supports clearance."
+  },
+  {
+    "id": 133,
+    "chapter": 9,
+    "front": "How does fluoride protect enamel?",
+    "back": "It reduces demineralization and supports remineralization of early mineral loss."
+  },
+  {
+    "id": 134,
+    "chapter": 9,
+    "front": "What is a white-spot lesion?",
+    "back": "It is early demineralization that may still be reversible before cavitation forms."
+  },
+  {
+    "id": 135,
+    "chapter": 9,
+    "front": "What is gingivitis?",
+    "back": "It is inflammation of the gingiva, commonly related to plaque and usually reversible."
+  },
+  {
+    "id": 136,
+    "chapter": 9,
+    "front": "What is periodontitis?",
+    "back": "It is inflammation with loss of periodontal attachment and supporting bone."
+  },
+  {
+    "id": 137,
+    "chapter": 9,
+    "front": "Why can gums bleed during brushing?",
+    "back": "Plaque-related inflammation often causes bleeding, and effective cleaning helps reduce it."
+  },
+  {
+    "id": 138,
+    "chapter": 9,
+    "front": "Does pocket depth alone diagnose disease?",
+    "back": "No, diagnosis uses attachment, bone, bleeding, risk, and clinical judgement together."
+  },
+  {
+    "id": 139,
+    "chapter": 9,
+    "front": "What are caries disease drivers?",
+    "back": "Frequent sugars, plaque, low saliva, and inadequate fluoride push the balance toward disease."
+  },
+  {
+    "id": 140,
+    "chapter": 9,
+    "front": "What are caries protective factors?",
+    "back": "Saliva, fluoride, effective plaque removal, sealants, and regular care support repair."
+  },
+  {
+    "id": 141,
+    "chapter": 9,
+    "front": "Are antibiotics routine for every cavity?",
+    "back": "No, antibiotics do not replace caries removal or periodontal care and require clinical indication."
+  },
+  {
+    "id": 142,
+    "chapter": 9,
+    "front": "Why is smoking relevant to periodontal care?",
+    "back": "Smoking increases periodontal risk and can reduce expected tissue response to treatment."
+  },
+  {
+    "id": 143,
+    "chapter": 9,
+    "front": "Why should an assistant avoid blame?",
+    "back": "Caries and gum disease have biological and social causes that require support rather than shame."
+  },
+  {
+    "id": 144,
+    "chapter": 9,
+    "front": "Which warning signs require urgent review?",
+    "back": "Spreading swelling, fever, breathing difficulty, or trouble swallowing needs prompt emergency assessment."
+  },
+  {
+    "id": 145,
+    "chapter": 10,
+    "front": "What should be recorded about an oral lesion?",
+    "back": "Record location, size, colour, border, surface, duration, symptoms, and change over time."
+  },
+  {
+    "id": 146,
+    "chapter": 10,
+    "front": "Why is lesion location important?",
+    "back": "Certain sites and patterns help the clinician decide what assessment or follow-up is needed."
+  },
+  {
+    "id": 147,
+    "chapter": 10,
+    "front": "What is a traumatic ulcer?",
+    "back": "It is an ulcer caused by local injury and usually improves after the source is removed."
+  },
+  {
+    "id": 148,
+    "chapter": 10,
+    "front": "What is recurrent aphthous ulceration?",
+    "back": "It produces painful recurring shallow ulcers, but each episode still needs appropriate review."
+  },
+  {
+    "id": 149,
+    "chapter": 10,
+    "front": "What is herpes labialis?",
+    "back": "It is a recurring lip infection that begins with tingling and forms clustered vesicles."
+  },
+  {
+    "id": 150,
+    "chapter": 10,
+    "front": "What is oral candidiasis?",
+    "back": "It is a fungal condition associated with factors such as dry mouth, antibiotics, or immune change."
+  },
+  {
+    "id": 151,
+    "chapter": 10,
+    "front": "What is angular cheilitis?",
+    "back": "It is inflammation or infection at the corners of the mouth with several possible causes."
+  },
+  {
+    "id": 152,
+    "chapter": 10,
+    "front": "What is a fibroma?",
+    "back": "It is a benign fibrous growth often associated with chronic local irritation."
+  },
+  {
+    "id": 153,
+    "chapter": 10,
+    "front": "What is a mucocele?",
+    "back": "It is a lesion caused by injury to a minor salivary duct and retained secretions."
+  },
+  {
+    "id": 154,
+    "chapter": 10,
+    "front": "Why are painless lesions still important?",
+    "back": "Persistent lesions can be clinically significant even when they do not hurt."
+  },
+  {
+    "id": 155,
+    "chapter": 10,
+    "front": "Which warning symptoms need prompt review?",
+    "back": "Persistent ulceration, numbness, unexplained bleeding, or swallowing difficulty require review."
+  },
+  {
+    "id": 156,
+    "chapter": 10,
+    "front": "What does radiolucent mean?",
+    "back": "It describes an area that allows more x-ray photons through and appears darker."
+  },
+  {
+    "id": 157,
+    "chapter": 10,
+    "front": "What should an assistant do with an uncertain lesion?",
+    "back": "Record the facts and arrange clinician assessment without offering a diagnosis."
+  },
+  {
+    "id": 158,
+    "chapter": 10,
+    "front": "Why obtain an accurate history?",
+    "back": "Duration, triggers, change, treatment, and symptoms help distinguish possible causes."
+  },
+  {
+    "id": 159,
+    "chapter": 10,
+    "front": "How are photographs managed?",
+    "back": "Use approved consent and secure record storage according to practice policy."
+  },
+  {
+    "id": 160,
+    "chapter": 10,
+    "front": "What is the assistant's pathology role?",
+    "back": "Recognize and report findings, support specimen logistics, and give approved follow-up instructions."
+  },
+  {
+    "id": 161,
+    "chapter": 11,
+    "front": "Why does medical history affect dental care?",
+    "back": "It can change bleeding risk, infection risk, breathing, blood pressure, healing, and emergency planning."
+  },
+  {
+    "id": 162,
+    "chapter": 11,
+    "front": "What is hypertension?",
+    "back": "It is elevated blood pressure that may cause few symptoms but increases emergency risk."
+  },
+  {
+    "id": 163,
+    "chapter": 11,
+    "front": "Why are anticoagulants important?",
+    "back": "They increase bleeding risk and require clinician review before medication decisions are made."
+  },
+  {
+    "id": 164,
+    "chapter": 11,
+    "front": "Why should a patient not stop medication alone?",
+    "back": "A prescribed blood thinner or other medicine should not be changed without the appropriate prescriber."
+  },
+  {
+    "id": 165,
+    "chapter": 11,
+    "front": "What is asthma?",
+    "back": "It is a chronic inflammatory airway condition that can cause wheeze, cough, and breathing difficulty."
+  },
+  {
+    "id": 166,
+    "chapter": 11,
+    "front": "Why keep a rescue inhaler available?",
+    "back": "A patient may need it for acute breathing symptoms according to their care plan and office policy."
+  },
+  {
+    "id": 167,
+    "chapter": 11,
+    "front": "How can diabetes affect dental care?",
+    "back": "It can alter infection risk, healing, periodontal health, and the risk of low blood glucose."
+  },
+  {
+    "id": 168,
+    "chapter": 11,
+    "front": "What are hypoglycaemia signs?",
+    "back": "Shakiness, sweating, hunger, confusion, and unusual behaviour can indicate low blood sugar."
+  },
+  {
+    "id": 169,
+    "chapter": 11,
+    "front": "What should be done for severe hypoglycaemia?",
+    "back": "If consciousness or swallowing is impaired, call emergency help and follow the trained protocol."
+  },
+  {
+    "id": 170,
+    "chapter": 11,
+    "front": "What should an allergy entry describe?",
+    "back": "Record the medicine or product, the reaction, timing, treatment, and whether the reaction was severe."
+  },
+  {
+    "id": 171,
+    "chapter": 11,
+    "front": "Are supplements part of the medication list?",
+    "back": "Yes, herbs, vitamins, topical products, patches, injections, and as-needed medicines matter."
+  },
+  {
+    "id": 172,
+    "chapter": 11,
+    "front": "What is ASA I?",
+    "back": "It describes a healthy patient without systemic disease."
+  },
+  {
+    "id": 173,
+    "chapter": 11,
+    "front": "What is ASA II?",
+    "back": "It describes mild systemic disease without major functional limitation."
+  },
+  {
+    "id": 174,
+    "chapter": 11,
+    "front": "What is ASA III?",
+    "back": "It describes severe systemic disease with definite functional limitation."
+  },
+  {
+    "id": 175,
+    "chapter": 11,
+    "front": "Why should the assistant report uncertainty?",
+    "back": "The dentist needs accurate information before making a medical or treatment decision."
+  },
+  {
+    "id": 176,
+    "chapter": 11,
+    "front": "Who interprets the medical history for treatment?",
+    "back": "The dentist interprets risks and decides the clinical response within their professional scope."
+  },
+  {
+    "id": 177,
+    "chapter": 12,
+    "front": "Why does nutrition matter in dentistry?",
+    "back": "It supports growth, immunity, saliva, tissue repair, oral function, and overall health."
+  },
+  {
+    "id": 178,
+    "chapter": 12,
+    "front": "Which nutrients support mineralized tissue?",
+    "back": "Calcium, phosphorus, vitamin D, and fluoride contribute to mineral balance and hard tissue health."
+  },
+  {
+    "id": 179,
+    "chapter": 12,
+    "front": "Why does exposure frequency matter?",
+    "back": "Repeated sugar or acid exposures create more acid cycles and reduce time for repair."
+  },
+  {
+    "id": 180,
+    "chapter": 12,
+    "front": "Why are acidic drinks important?",
+    "back": "They can erode enamel even when the product contains no sugar."
+  },
+  {
+    "id": 181,
+    "chapter": 12,
+    "front": "How can sweet-drink exposure be reduced?",
+    "back": "Use water, reduce sipping frequency, and avoid prolonged bottle or cup exposure."
+  },
+  {
+    "id": 182,
+    "chapter": 12,
+    "front": "What is a practical snack pattern?",
+    "back": "Plan meals and snacks rather than grazing or sipping sweet products continuously."
+  },
+  {
+    "id": 183,
+    "chapter": 12,
+    "front": "Why should fruit not simply be banned?",
+    "back": "Fruit contains nutrients, so the goal is pattern, amount, and practical oral care."
+  },
+  {
+    "id": 184,
+    "chapter": 12,
+    "front": "What should be done after infant teeth emerge?",
+    "back": "Clean them on a schedule and avoid prolonged night-time carbohydrate exposure."
+  },
+  {
+    "id": 185,
+    "chapter": 12,
+    "front": "Why is honey unsafe for infants?",
+    "back": "Honey carries a serious botulism risk for infants younger than one year."
+  },
+  {
+    "id": 186,
+    "chapter": 12,
+    "front": "What affects adolescent caries risk?",
+    "back": "Sports drinks, energy drinks, busy schedules, orthodontic appliances, and vaping can affect risk."
+  },
+  {
+    "id": 187,
+    "chapter": 12,
+    "front": "What changes nutrition in older adulthood?",
+    "back": "Dry mouth, tooth loss, medication, swallowing change, income, and access can affect eating."
+  },
+  {
+    "id": 188,
+    "chapter": 12,
+    "front": "Why is dry mouth important?",
+    "back": "Reduced saliva weakens buffering and mineral support and increases caries risk."
+  },
+  {
+    "id": 189,
+    "chapter": 12,
+    "front": "What should guidance avoid?",
+    "back": "Avoid blame and unrealistic plans that ignore a person's budget, culture, disability, or access."
+  },
+  {
+    "id": 190,
+    "chapter": 12,
+    "front": "What is fluoride's role?",
+    "back": "It supports remineralization and reduces tooth mineral loss when used appropriately."
+  },
+  {
+    "id": 191,
+    "chapter": 12,
+    "front": "Should assistants recommend fluoride supplements?",
+    "back": "Supplements require clinical assessment and measurement, not casual recommendation."
+  },
+  {
+    "id": 192,
+    "chapter": 12,
+    "front": "What does teach-back improve?",
+    "back": "It checks whether the patient can repeat a practical nutrition or hygiene plan."
+  },
+  {
+    "id": 193,
+    "chapter": 13,
+    "front": "Why begin with observation?",
+    "back": "Gait, breathing, skin colour, speech, and alertness can reveal a concern before measurements."
+  },
+  {
+    "id": 194,
+    "chapter": 13,
+    "front": "What is a medical history review?",
+    "back": "It checks conditions, medicines, allergies, surgeries, pregnancy, bleeding, and recent changes."
+  },
+  {
+    "id": 195,
+    "chapter": 13,
+    "front": "What is a common adult temperature range?",
+    "back": "An oral reference is often 36.0 to 37.5 degrees Celsius, depending on technique."
+  },
+  {
+    "id": 196,
+    "chapter": 13,
+    "front": "What is a common adult heart rate range?",
+    "back": "A common resting reference is 60 to 100 beats per minute."
+  },
+  {
+    "id": 197,
+    "chapter": 13,
+    "front": "What is a common respiratory rate range?",
+    "back": "A common resting reference is 12 to 20 breaths per minute."
+  },
+  {
+    "id": 198,
+    "chapter": 13,
+    "front": "What is pulse oximetry?",
+    "back": "It estimates oxygen saturation but can be affected by circulation, movement, and device issues."
+  },
+  {
+    "id": 199,
+    "chapter": 13,
+    "front": "Why compare with baseline?",
+    "back": "A patient may be normal at a value that differs from the population reference."
+  },
+  {
+    "id": 200,
+    "chapter": 13,
+    "front": "What if a measurement seems wrong?",
+    "back": "Check technique and equipment, repeat safely, and do not delay emergency action."
+  },
+  {
+    "id": 201,
+    "chapter": 13,
+    "front": "Why count respirations quietly?",
+    "back": "Awareness can change breathing, so an announced count may be less accurate."
+  },
+  {
+    "id": 202,
+    "chapter": 13,
+    "front": "What is an irregular pulse?",
+    "back": "It is an uneven rhythm that may require review with the patient's clinical context."
+  },
+  {
+    "id": 203,
+    "chapter": 13,
+    "front": "Why is cuff size important?",
+    "back": "An incorrect cuff can produce an inaccurate blood pressure reading."
+  },
+  {
+    "id": 204,
+    "chapter": 13,
+    "front": "What should happen with chest pain?",
+    "back": "Stop treatment and activate the emergency protocol immediately."
+  },
+  {
+    "id": 205,
+    "chapter": 13,
+    "front": "What does dizziness on standing suggest?",
+    "back": "It can reflect a position-related change and requires safe positioning and review."
+  },
+  {
+    "id": 206,
+    "chapter": 13,
+    "front": "What must be recorded with vital signs?",
+    "back": "Record the values, units, site or method, time, repeat measurements, and action taken."
+  },
+  {
+    "id": 207,
+    "chapter": 13,
+    "front": "Who interprets vital signs?",
+    "back": "The dentist or authorized clinician interprets findings and determines the care response."
+  },
+  {
+    "id": 208,
+    "chapter": 13,
+    "front": "Why can a normal number be dangerous?",
+    "back": "Over time, a stable number can hide deterioration if symptoms and trends are ignored."
+  },
+  {
+    "id": 209,
+    "chapter": 14,
+    "front": "What is FDI numbering?",
+    "back": "It uses two digits for quadrant and tooth position within that quadrant."
+  },
+  {
+    "id": 210,
+    "chapter": 14,
+    "front": "Which FDI quadrant is upper right?",
+    "back": "Permanent quadrant 1 is the upper right as viewed from the patient."
+  },
+  {
+    "id": 211,
+    "chapter": 14,
+    "front": "Which FDI quadrant is lower left?",
+    "back": "Permanent quadrant 3 is the lower left as viewed from the patient."
+  },
+  {
+    "id": 212,
+    "chapter": 14,
+    "front": "What does FDI tooth 11 identify?",
+    "back": "It identifies the permanent upper right central incisor."
+  },
+  {
+    "id": 213,
+    "chapter": 14,
+    "front": "What does FDI tooth 36 identify?",
+    "back": "It identifies the permanent lower left first molar."
+  },
+  {
+    "id": 214,
+    "chapter": 14,
+    "front": "What does Universal numbering use?",
+    "back": "It numbers permanent teeth from 1 through 32 in a continuous sequence."
+  },
+  {
+    "id": 215,
+    "chapter": 14,
+    "front": "What does Palmer notation use?",
+    "back": "It combines a quadrant symbol with a tooth position number."
+  },
+  {
+    "id": 216,
+    "chapter": 14,
+    "front": "Why should notation be stated?",
+    "back": "The team must know which numbering system the record is using to avoid wrong-tooth care."
+  },
+  {
+    "id": 217,
+    "chapter": 14,
+    "front": "What surfaces are charted on posterior teeth?",
+    "back": "Mesial, distal, buccal, lingual, and occlusal surfaces can be recorded."
+  },
+  {
+    "id": 218,
+    "chapter": 14,
+    "front": "What replaces occlusal on anterior teeth?",
+    "back": "Incisal is used for the cutting surface of an anterior tooth."
+  },
+  {
+    "id": 219,
+    "chapter": 14,
+    "front": "What should a chart distinguish?",
+    "back": "Observed findings, clinician diagnoses, existing restorations, and planned care must remain distinct."
+  },
+  {
+    "id": 220,
+    "chapter": 14,
+    "front": "How can wrong-site errors be reduced?",
+    "back": "Confirm side, arch, tooth, image, and chart before treatment begins."
+  },
+  {
+    "id": 221,
+    "chapter": 14,
+    "front": "Why are existing restorations recorded?",
+    "back": "They preserve baseline information for future comparison and treatment planning."
+  },
+  {
+    "id": 222,
+    "chapter": 14,
+    "front": "What is a legal record entry?",
+    "back": "It is accurate, timely, attributable, and stored in the approved patient record."
+  },
+  {
+    "id": 223,
+    "chapter": 14,
+    "front": "Who may enter a diagnosis?",
+    "back": "Only an authorized clinician may enter a diagnosis within their professional scope."
+  },
+  {
+    "id": 224,
+    "chapter": 14,
+    "front": "Why should symbols be defined?",
+    "back": "A symbol without a shared key can be misinterpreted by another team member."
+  },
+  {
+    "id": 225,
+    "chapter": 15,
+    "front": "What is ALARA?",
+    "back": "It means keeping radiation exposure as low as reasonably achievable while producing necessary information."
+  },
+  {
+    "id": 226,
+    "chapter": 15,
+    "front": "What is radiographic justification?",
+    "back": "It is the decision that an image is expected to answer a clinical question."
+  },
+  {
+    "id": 227,
+    "chapter": 15,
+    "front": "What is beam collimation?",
+    "back": "It limits the beam to the smallest useful field and reduces unnecessary exposure."
+  },
+  {
+    "id": 228,
+    "chapter": 15,
+    "front": "What does radiopaque mean?",
+    "back": "It describes dense tissue or material that attenuates more x-rays and appears lighter."
+  },
+  {
+    "id": 229,
+    "chapter": 15,
+    "front": "What does radiolucent mean?",
+    "back": "It describes an area that allows more x-rays through and appears darker."
+  },
+  {
+    "id": 230,
+    "chapter": 15,
+    "front": "Why are children radiation-sensitive?",
+    "back": "Growing tissues generally carry greater lifetime risk from the same exposure pattern."
+  },
+  {
+    "id": 231,
+    "chapter": 15,
+    "front": "When is a lead apron used?",
+    "back": "Use it when required by technique, regulator, and practice policy to protect the patient."
+  },
+  {
+    "id": 232,
+    "chapter": 15,
+    "front": "Who should hold an image receptor?",
+    "back": "Only a trained person when permitted by law and policy, with appropriate consent and protection."
+  },
+  {
+    "id": 233,
+    "chapter": 15,
+    "front": "How is pregnancy handled for imaging?",
+    "back": "The dentist reviews the justification while the team uses appropriate technique and protection."
+  },
+  {
+    "id": 234,
+    "chapter": 15,
+    "front": "Do digital sensors eliminate dose concerns?",
+    "back": "No, rejected and repeated images still contribute exposure and require quality control."
+  },
+  {
+    "id": 235,
+    "chapter": 15,
+    "front": "What does a bitewing show?",
+    "back": "It shows crowns, proximal contacts, and crestal bone."
+  },
+  {
+    "id": 236,
+    "chapter": 15,
+    "front": "What does a periapical show?",
+    "back": "It shows a tooth and surrounding bone, including the root and periapical area."
+  },
+  {
+    "id": 237,
+    "chapter": 15,
+    "front": "What does a panoramic image show?",
+    "back": "It gives a broad survey of the jaws and surrounding structures."
+  },
+  {
+    "id": 238,
+    "chapter": 15,
+    "front": "When is cone-beam imaging used?",
+    "back": "It is used for selected three-dimensional questions after specific justification."
+  },
+  {
+    "id": 239,
+    "chapter": 15,
+    "front": "What must be checked before exposure?",
+    "back": "Confirm the patient, clinical order, equipment setting, positioning, and protection."
+  },
+  {
+    "id": 240,
+    "chapter": 15,
+    "front": "What limits radiographic interpretation?",
+    "back": "Interpretation belongs to the authorized clinician, not the dental assistant."
+  },
+  {
+    "id": 241,
+    "chapter": 16,
+    "front": "What is the bisecting-angle method?",
+    "back": "The central ray is aimed perpendicular to an imaginary bisector between tooth and receptor."
+  },
+  {
+    "id": 242,
+    "chapter": 16,
+    "front": "What is the paralleling method?",
+    "back": "The receptor is parallel with the tooth's long axis and the beam is perpendicular."
+  },
+  {
+    "id": 243,
+    "chapter": 16,
+    "front": "What does a receptor holder do?",
+    "back": "It stabilizes placement and reduces errors from movement or uncertain angulation."
+  },
+  {
+    "id": 244,
+    "chapter": 16,
+    "front": "What causes foreshortening?",
+    "back": "Excessive vertical angulation can make the image appear shorter than the tooth."
+  },
+  {
+    "id": 245,
+    "chapter": 16,
+    "front": "What causes elongation?",
+    "back": "Too little vertical angulation can make the image appear longer than the tooth."
+  },
+  {
+    "id": 246,
+    "chapter": 16,
+    "front": "What causes horizontal overlap?",
+    "back": "Incorrect horizontal angulation prevents the central ray from passing through contacts."
+  },
+  {
+    "id": 247,
+    "chapter": 16,
+    "front": "What is cone cutting?",
+    "back": "It is loss of part of the image when the beam is not centred over the receptor."
+  },
+  {
+    "id": 248,
+    "chapter": 16,
+    "front": "What causes motion blur?",
+    "back": "Patient, sensor, or tube movement during exposure reduces sharpness."
+  },
+  {
+    "id": 249,
+    "chapter": 16,
+    "front": "What should a periapical include?",
+    "back": "It should show the complete tooth and surrounding bone required by the order."
+  },
+  {
+    "id": 250,
+    "chapter": 16,
+    "front": "Why use bitewing technique?",
+    "back": "It shows crowns, proximal contacts, and crestal bone on both arches."
+  },
+  {
+    "id": 251,
+    "chapter": 16,
+    "front": "How should a gagging patient be supported?",
+    "back": "Pause, reassure, adjust positioning, and avoid forcing the receptor."
+  },
+  {
+    "id": 252,
+    "chapter": 16,
+    "front": "What is infection control for sensors?",
+    "back": "Use approved barriers and follow manufacturer cleaning and handling instructions."
+  },
+  {
+    "id": 253,
+    "chapter": 16,
+    "front": "When is a retake appropriate?",
+    "back": "Only when the image cannot answer the clinical question and the cause has been corrected."
+  },
+  {
+    "id": 254,
+    "chapter": 16,
+    "front": "What quality checks follow exposure?",
+    "back": "Check anatomy, sharpness, contrast, overlap, orientation, and required coverage."
+  },
+  {
+    "id": 255,
+    "chapter": 16,
+    "front": "What should be recorded about retakes?",
+    "back": "Record repeat exposures and quality concerns as required by the radiation safety program."
+  },
+  {
+    "id": 256,
+    "chapter": 16,
+    "front": "Who decides whether an image is clinically adequate?",
+    "back": "The authorized clinician judges diagnostic value with the quality review process."
+  },
+  {
+    "id": 257,
+    "chapter": 17,
+    "front": "What is a panoramic image?",
+    "back": "It is an extraoral image that provides a broad survey of the jaws and surrounding structures."
+  },
+  {
+    "id": 258,
+    "chapter": 17,
+    "front": "Why do patients remove metal before a panoramic image?",
+    "back": "Metal can create artefacts and obscure anatomy on the image."
+  },
+  {
+    "id": 259,
+    "chapter": 17,
+    "front": "What common error affects panoramic quality?",
+    "back": "Patient movement, incorrect head position, or poor bite-guide use can distort anatomy."
+  },
+  {
+    "id": 260,
+    "chapter": 17,
+    "front": "Does a panoramic replace bitewings?",
+    "back": "No, bitewings remain important for proximal caries and crestal bone detail."
+  },
+  {
+    "id": 261,
+    "chapter": 17,
+    "front": "What is cone-beam computed tomography?",
+    "back": "It provides three-dimensional imaging for selected clinical questions and requires justification."
+  },
+  {
+    "id": 262,
+    "chapter": 17,
+    "front": "Why verify image orientation?",
+    "back": "Left, right, maxilla, and mandible must be displayed according to the approved convention."
+  },
+  {
+    "id": 263,
+    "chapter": 17,
+    "front": "What is image enhancement?",
+    "back": "It changes display appearance to aid review, but the original image must remain preserved."
+  },
+  {
+    "id": 264,
+    "chapter": 17,
+    "front": "Why should cropping be limited?",
+    "back": "Removing context can hide anatomy or create a misleading record."
+  },
+  {
+    "id": 265,
+    "chapter": 17,
+    "front": "How should images be transferred?",
+    "back": "Use an approved secure system after confirming identity, authority, and consent."
+  },
+  {
+    "id": 266,
+    "chapter": 17,
+    "front": "What is a digital imaging chain?",
+    "back": "It includes capture, display, storage, retrieval, transfer, and audit controls."
+  },
+  {
+    "id": 267,
+    "chapter": 17,
+    "front": "Why can personal phones be unsafe?",
+    "back": "They may lack approved encryption, access control, retention, and audit capability."
+  },
+  {
+    "id": 268,
+    "chapter": 17,
+    "front": "What should be checked before attaching an image?",
+    "back": "Confirm patient, date, view, provider, and orientation in the record."
+  },
+  {
+    "id": 269,
+    "chapter": 17,
+    "front": "How should image files be named?",
+    "back": "Use the system's approved identifiers and avoid free-form names that can mismatch."
+  },
+  {
+    "id": 270,
+    "chapter": 17,
+    "front": "Why track repeat images?",
+    "back": "Repeat patterns reveal technique, equipment, or training problems."
+  },
+  {
+    "id": 271,
+    "chapter": 17,
+    "front": "What is a privacy breach involving images?",
+    "back": "Any unauthorized access, sharing, loss, or alteration of a patient image can be a breach."
+  },
+  {
+    "id": 272,
+    "chapter": 17,
+    "front": "What must be preserved in the record?",
+    "back": "The approved original and a clear audit of corrections, transfers, and access."
+  },
+  {
+    "id": 273,
+    "chapter": 18,
+    "front": "What are routine practices?",
+    "back": "They are universal precautions applied to every patient because infection risk cannot be judged visually."
+  },
+  {
+    "id": 274,
+    "chapter": 18,
+    "front": "What is the first hand hygiene moment?",
+    "back": "Perform hand hygiene before touching a patient or their immediate surroundings."
+  },
+  {
+    "id": 275,
+    "chapter": 18,
+    "front": "What is the second hand hygiene moment?",
+    "back": "Perform hand hygiene before a clean or aseptic task."
+  },
+  {
+    "id": 276,
+    "chapter": 18,
+    "front": "When is hand hygiene needed after exposure risk?",
+    "back": "After any task with potential contact with blood or body fluids."
+  },
+  {
+    "id": 277,
+    "chapter": 18,
+    "front": "Do gloves replace hand hygiene?",
+    "back": "No, wear gloves for the task and perform hand hygiene at the correct moments."
+  },
+  {
+    "id": 278,
+    "chapter": 18,
+    "front": "When should a gown be worn?",
+    "back": "When the task is likely to produce splashes or contamination of clothing."
+  },
+  {
+    "id": 279,
+    "chapter": 18,
+    "front": "What protects eyes and face?",
+    "back": "Eye protection and a mask are selected according to the expected splash and aerosol risk."
+  },
+  {
+    "id": 280,
+    "chapter": 18,
+    "front": "What is a surgical mask?",
+    "back": "It protects against droplets and splashes but is not a fit-tested respirator."
+  },
+  {
+    "id": 281,
+    "chapter": 18,
+    "front": "What controls dental aerosol?",
+    "back": "High-volume evacuation, rubber dams, good suction, and appropriate engineering controls reduce exposure."
+  },
+  {
+    "id": 282,
+    "chapter": 18,
+    "front": "How should a used needle be handled?",
+    "back": "Place it directly in an approved rigid sharps container without hand recapping."
+  },
+  {
+    "id": 283,
+    "chapter": 18,
+    "front": "What should happen after a needlestick?",
+    "back": "Wash the site, report immediately, and follow occupational health and exposure protocols."
+  },
+  {
+    "id": 284,
+    "chapter": 18,
+    "front": "How are spills managed?",
+    "back": "Use approved disinfectant, correct contact time, PPE, and a safe outside-in cleaning method."
+  },
+  {
+    "id": 285,
+    "chapter": 18,
+    "front": "Why should disinfectants not be mixed?",
+    "back": "Mixing can create toxic exposure or reduce effectiveness."
+  },
+  {
+    "id": 286,
+    "chapter": 18,
+    "front": "What is an administrative control?",
+    "back": "Vaccination, training, sick-leave policy, and exposure reporting support infection prevention."
+  },
+  {
+    "id": 287,
+    "chapter": 18,
+    "front": "Why should torn gloves be replaced?",
+    "back": "A break compromises the barrier and requires correction before clean or patient contact."
+  },
+  {
+    "id": 288,
+    "chapter": 18,
+    "front": "When should contaminated PPE be removed?",
+    "back": "Remove it carefully before leaving the contaminated area and then perform hand hygiene."
+  },
+  {
+    "id": 289,
+    "chapter": 19,
+    "front": "What is the first reprocessing step?",
+    "back": "Keep instruments moist and contained at the point of use before cleaning."
+  },
+  {
+    "id": 290,
+    "chapter": 19,
+    "front": "Why must instruments be cleaned before sterilization?",
+    "back": "Organic material and debris can prevent steam or vapour from contacting surfaces."
+  },
+  {
+    "id": 291,
+    "chapter": 19,
+    "front": "What is an ultrasonic cleaner?",
+    "back": "It uses sound energy and cleaning solution to remove debris from instrument surfaces."
+  },
+  {
+    "id": 292,
+    "chapter": 19,
+    "front": "What should happen after cleaning?",
+    "back": "Instruments are inspected, dried as required, and checked for damage before packaging."
+  },
+  {
+    "id": 293,
+    "chapter": 19,
+    "front": "What is a sterilization pouch?",
+    "back": "It is packaging that maintains the instrument barrier and carries process indicators and labeling."
+  },
+  {
+    "id": 294,
+    "chapter": 19,
+    "front": "Why should a sterilizer not be overloaded?",
+    "back": "Overcrowding can prevent contact with the sterilizing agent."
+  },
+  {
+    "id": 295,
+    "chapter": 19,
+    "front": "What is mechanical monitoring?",
+    "back": "It verifies cycle parameters such as time, temperature, and pressure."
+  },
+  {
+    "id": 296,
+    "chapter": 19,
+    "front": "What does a chemical indicator show?",
+    "back": "It shows exposure to the process but does not prove microbial kill."
+  },
+  {
+    "id": 297,
+    "chapter": 19,
+    "front": "What is a biological indicator?",
+    "back": "It uses resistant spores to test whether the sterilization process was effective."
+  },
+  {
+    "id": 298,
+    "chapter": 19,
+    "front": "What happens after a biological failure?",
+    "back": "Stop release, quarantine the load, and follow the failure and recall protocol."
+  },
+  {
+    "id": 299,
+    "chapter": 19,
+    "front": "How should sterile packages be stored?",
+    "back": "Keep them clean, dry, enclosed, and away from sinks, waste, and contamination."
+  },
+  {
+    "id": 300,
+    "chapter": 19,
+    "front": "When is a package considered compromised?",
+    "back": "Damp, torn, opened, or contaminated packaging is not treated as sterile."
+  },
+  {
+    "id": 301,
+    "chapter": 19,
+    "front": "Why track sterilization loads?",
+    "back": "Traceability allows rapid recall and investigation if monitoring fails."
+  },
+  {
+    "id": 302,
+    "chapter": 19,
+    "front": "What PPE is needed for cleaning?",
+    "back": "Use gloves and other protection selected for splashes and contaminated instruments."
+  },
+  {
+    "id": 303,
+    "chapter": 19,
+    "front": "What should happen to damaged instruments?",
+    "back": "Remove them from service and follow the repair or replacement process."
+  },
+  {
+    "id": 304,
+    "chapter": 19,
+    "front": "Who may release a sterilized load?",
+    "back": "Only trained personnel following the validated monitoring and release policy."
+  },
+  {
+    "id": 305,
+    "chapter": 20,
+    "front": "What is pre-arrival preparation?",
+    "back": "It matches the room, equipment, supplies, record, and barriers to the planned care."
+  },
+  {
+    "id": 306,
+    "chapter": 20,
+    "front": "What is four-handed dentistry?",
+    "back": "It coordinates dentist and assistant movements to improve visibility, safety, and efficiency."
+  },
+  {
+    "id": 307,
+    "chapter": 20,
+    "front": "Where should instruments be transferred?",
+    "back": "Use a predictable zone below the patient's chin and away from the airway."
+  },
+  {
+    "id": 308,
+    "chapter": 20,
+    "front": "Why announce a sharp instrument?",
+    "back": "The receiver can prepare a safe grip and avoid an injury."
+  },
+  {
+    "id": 309,
+    "chapter": 20,
+    "front": "What is neutral posture?",
+    "back": "It keeps wrists, shoulders, and elbows in relaxed positions with less sustained strain."
+  },
+  {
+    "id": 310,
+    "chapter": 20,
+    "front": "Why adjust the patient chair?",
+    "back": "Correct positioning reduces reaching and improves access to the field."
+  },
+  {
+    "id": 311,
+    "chapter": 20,
+    "front": "What is the purpose of high-volume suction?",
+    "back": "It removes fluids and aerosols while helping keep the field visible."
+  },
+  {
+    "id": 312,
+    "chapter": 20,
+    "front": "Why separate clean and contaminated zones?",
+    "back": "Separation prevents clean supplies from contacting contaminated instruments."
+  },
+  {
+    "id": 313,
+    "chapter": 20,
+    "front": "What is an instrument sequence?",
+    "back": "It is the order in which instruments and materials will be used during the procedure."
+  },
+  {
+    "id": 314,
+    "chapter": 20,
+    "front": "Why count small instruments?",
+    "back": "They can be lost in the field, tray, or drapes and may become an airway risk."
+  },
+  {
+    "id": 315,
+    "chapter": 20,
+    "front": "What symptoms suggest an ergonomic problem?",
+    "back": "Numbness, tingling, weakness, swelling, and persistent pain require early review."
+  },
+  {
+    "id": 316,
+    "chapter": 20,
+    "front": "What is room turnover?",
+    "back": "It is the controlled cleaning, barrier removal, waste handling, and reset between patients."
+  },
+  {
+    "id": 317,
+    "chapter": 20,
+    "front": "Why restock before the next patient?",
+    "back": "Advance preparation reduces rushed movement and missed supplies."
+  },
+  {
+    "id": 318,
+    "chapter": 20,
+    "front": "What should happen when visibility is lost?",
+    "back": "Stop and reposition suction, mirror, or retraction rather than working blind."
+  },
+  {
+    "id": 319,
+    "chapter": 20,
+    "front": "Why keep the tray organized?",
+    "back": "A consistent layout supports anticipation, safe transfer, and instrument counts."
+  },
+  {
+    "id": 320,
+    "chapter": 20,
+    "front": "What determines the assistant's clinical role?",
+    "back": "Education, supervision, employer policy, and the law of the jurisdiction define permitted tasks."
+  },
+  {
+    "id": 321,
+    "chapter": 21,
+    "front": "Why follow the powder-to-liquid ratio?",
+    "back": "Changing it can alter strength, setting, acidity, and biocompatibility."
+  },
+  {
+    "id": 322,
+    "chapter": 21,
+    "front": "What is working time?",
+    "back": "It is the period when a material can still be manipulated for the procedure."
+  },
+  {
+    "id": 323,
+    "chapter": 21,
+    "front": "What is setting time?",
+    "back": "It is the period after mixing when the material hardens or reaches final form."
+  },
+  {
+    "id": 324,
+    "chapter": 21,
+    "front": "Why control moisture during placement?",
+    "back": "Saliva or blood can interfere with bonding, adaptation, and material performance."
+  },
+  {
+    "id": 325,
+    "chapter": 21,
+    "front": "What is a glass ionomer?",
+    "back": "It is a dental material that bonds chemically and can release fluoride."
+  },
+  {
+    "id": 326,
+    "chapter": 21,
+    "front": "What does resin composite require?",
+    "back": "It generally requires controlled isolation, correct placement, and proper light curing."
+  },
+  {
+    "id": 327,
+    "chapter": 21,
+    "front": "Why check the curing light?",
+    "back": "A dirty or malfunctioning tip can deliver inadequate energy to the material."
+  },
+  {
+    "id": 328,
+    "chapter": 21,
+    "front": "Why record material lot numbers?",
+    "back": "Traceability supports recall and investigation if a product problem occurs."
+  },
+  {
+    "id": 329,
+    "chapter": 21,
+    "front": "What should happen when a material expires?",
+    "back": "Remove it from clinical use and follow the approved disposal or replacement process."
+  },
+  {
+    "id": 330,
+    "chapter": 21,
+    "front": "Why avoid mixing brands without guidance?",
+    "back": "Components may not be validated together and can interact unpredictably."
+  },
+  {
+    "id": 331,
+    "chapter": 21,
+    "front": "What is an impression material?",
+    "back": "It records a negative copy of tooth or tissue surfaces for a model or prosthesis."
+  },
+  {
+    "id": 332,
+    "chapter": 21,
+    "front": "Why inspect an impression?",
+    "back": "Voids, tears, drags, and missing detail can make the record unusable."
+  },
+  {
+    "id": 333,
+    "chapter": 21,
+    "front": "What is an expanded function?",
+    "back": "It is a clinical task allowed only with specific education, supervision, and local authority."
+  },
+  {
+    "id": 334,
+    "chapter": 21,
+    "front": "Why is manufacturer instruction important?",
+    "back": "It defines validated mixing, storage, handling, and safety requirements."
+  },
+  {
+    "id": 335,
+    "chapter": 21,
+    "front": "What should happen if the material sets early?",
+    "back": "Stop, remove it safely, verify the cause, and mix a fresh batch if appropriate."
+  },
+  {
+    "id": 336,
+    "chapter": 22,
+    "front": "What does high-volume evacuation do?",
+    "back": "It removes fluids and aerosols near the working field."
+  },
+  {
+    "id": 337,
+    "chapter": 22,
+    "front": "What is the role of a saliva ejector?",
+    "back": "It removes pooled saliva and helps keep the field comfortable and visible."
+  },
+  {
+    "id": 338,
+    "chapter": 22,
+    "front": "What do cotton rolls do?",
+    "back": "They stabilize a localized dry field and help retract soft tissue."
+  },
+  {
+    "id": 339,
+    "chapter": 22,
+    "front": "What does a rubber dam provide?",
+    "back": "It provides controlled isolation and airway protection for selected procedures."
+  },
+  {
+    "id": 340,
+    "chapter": 22,
+    "front": "What is a matrix?",
+    "back": "It helps establish the contour and proximal form of a restoration."
+  },
+  {
+    "id": 341,
+    "chapter": 22,
+    "front": "What is a wedge?",
+    "back": "It stabilizes the matrix and adapts it around the tooth."
+  },
+  {
+    "id": 342,
+    "chapter": 22,
+    "front": "Why check latex allergy?",
+    "back": "Latex-containing products may cause a serious reaction in a sensitized patient."
+  },
+  {
+    "id": 343,
+    "chapter": 22,
+    "front": "Why protect the curing light tip?",
+    "back": "A clean tip and correct distance help deliver the required light."
+  },
+  {
+    "id": 344,
+    "chapter": 22,
+    "front": "What should be checked before placement?",
+    "back": "Confirm the patient, tooth, consent, isolation, materials, and instrument sequence."
+  },
+  {
+    "id": 345,
+    "chapter": 22,
+    "front": "Why is airway protection essential?",
+    "back": "Small instruments, materials, water, and debris can enter the airway."
+  },
+  {
+    "id": 346,
+    "chapter": 22,
+    "front": "What is a postoperative warning sign?",
+    "back": "Severe pain, swelling, breathing difficulty, uncontrolled bleeding, or trauma needs review."
+  },
+  {
+    "id": 347,
+    "chapter": 22,
+    "front": "Why use teach-back after restoration?",
+    "back": "The patient should understand eating, cleaning, sensitivity, and when to call."
+  },
+  {
+    "id": 348,
+    "chapter": 22,
+    "front": "What if a patient gags on a rubber dam?",
+    "back": "Stop, remove pressure, support the patient, and reassess the isolation plan."
+  },
+  {
+    "id": 349,
+    "chapter": 22,
+    "front": "Why document the material?",
+    "back": "The record should identify care and support future treatment decisions."
+  },
+  {
+    "id": 350,
+    "chapter": 22,
+    "front": "What does polishing require?",
+    "back": "Local authority, correct technique, and avoidance of unnecessary tooth structure."
+  },
+  {
+    "id": 351,
+    "chapter": 23,
+    "front": "What is a crown?",
+    "back": "It is a restoration that covers and protects a prepared tooth."
+  },
+  {
+    "id": 352,
+    "chapter": 23,
+    "front": "What is a provisional crown?",
+    "back": "It is a temporary restoration that protects the prepared tooth between appointments."
+  },
+  {
+    "id": 353,
+    "chapter": 23,
+    "front": "What is a bridge?",
+    "back": "It replaces missing teeth by using support from adjacent teeth or implants."
+  },
+  {
+    "id": 354,
+    "chapter": 23,
+    "front": "What is a veneer?",
+    "back": "It is a thin restoration placed on a facial tooth surface for selected aesthetic or functional goals."
+  },
+  {
+    "id": 355,
+    "chapter": 23,
+    "front": "What is a denture?",
+    "back": "It is a removable prosthesis that replaces some or all teeth and supporting tissues."
+  },
+  {
+    "id": 356,
+    "chapter": 23,
+    "front": "What is an implant abutment?",
+    "back": "It connects the implant body to the restorative prosthesis."
+  },
+  {
+    "id": 357,
+    "chapter": 23,
+    "front": "Why are shade records important?",
+    "back": "They communicate colour details to the laboratory and clinician."
+  },
+  {
+    "id": 358,
+    "chapter": 23,
+    "front": "What affects shade matching?",
+    "back": "Lighting, background, hydration, eye fatigue, and tooth condition can change perception."
+  },
+  {
+    "id": 359,
+    "chapter": 23,
+    "front": "What makes an impression usable?",
+    "back": "It must fit the tray, set correctly, capture detail, and avoid voids or tears."
+  },
+  {
+    "id": 360,
+    "chapter": 23,
+    "front": "What makes a digital scan usable?",
+    "back": "The field must be clean and dry with an unobstructed scan path."
+  },
+  {
+    "id": 361,
+    "chapter": 23,
+    "front": "What is a try-in appointment?",
+    "back": "It checks fit, appearance, comfort, speech, and function before final delivery."
+  },
+  {
+    "id": 362,
+    "chapter": 23,
+    "front": "Why track small prosthesis components?",
+    "back": "They can be swallowed, aspirated, lost, or mislabelled."
+  },
+  {
+    "id": 363,
+    "chapter": 23,
+    "front": "What should denture instructions include?",
+    "back": "Explain removal, cleaning, storage, tissue rest, and when to seek review."
+  },
+  {
+    "id": 364,
+    "chapter": 23,
+    "front": "Why can a denture cause soreness?",
+    "back": "Pressure, fit, occlusion, tissue change, or hygiene issues can cause persistent irritation."
+  },
+  {
+    "id": 365,
+    "chapter": 23,
+    "front": "Who may adjust a prosthesis?",
+    "back": "Only an authorized professional acting within local scope and competence."
+  },
+  {
+    "id": 366,
+    "chapter": 24,
+    "front": "What is endodontic treatment?",
+    "back": "It manages pulp and periapical disease through access, cleaning, shaping, and sealing."
+  },
+  {
+    "id": 367,
+    "chapter": 24,
+    "front": "Why confirm the tooth before endodontics?",
+    "back": "Wrong-tooth treatment can cause irreversible harm and legal consequences."
+  },
+  {
+    "id": 368,
+    "chapter": 24,
+    "front": "Why is isolation important?",
+    "back": "It protects the tooth, keeps irrigants controlled, and helps protect the airway."
+  },
+  {
+    "id": 369,
+    "chapter": 24,
+    "front": "Why are endodontic files organized?",
+    "back": "Small instruments can break or become lost and must be traceable throughout care."
+  },
+  {
+    "id": 370,
+    "chapter": 24,
+    "front": "What is irrigation used for?",
+    "back": "It helps clean canal spaces, but the clinician controls delivery to prevent tissue injury."
+  },
+  {
+    "id": 371,
+    "chapter": 24,
+    "front": "What should happen after a possible file loss?",
+    "back": "Stop, alert the dentist, account for the field, and follow the clinical response."
+  },
+  {
+    "id": 372,
+    "chapter": 24,
+    "front": "What is obturation?",
+    "back": "It is the filling and sealing of the cleaned root canal space."
+  },
+  {
+    "id": 373,
+    "chapter": 24,
+    "front": "What protects a tooth between visits?",
+    "back": "A properly placed temporary or interim restoration protects the tooth and tissues."
+  },
+  {
+    "id": 374,
+    "chapter": 24,
+    "front": "What warnings follow endodontics?",
+    "back": "Explain numbness, eating, pain, swelling, and urgent symptoms in plain language."
+  },
+  {
+    "id": 375,
+    "chapter": 24,
+    "front": "What change requires urgent review?",
+    "back": "Increasing swelling, fever, breathing difficulty, or severe pain needs prompt assessment."
+  },
+  {
+    "id": 376,
+    "chapter": 24,
+    "front": "Why image during endodontics?",
+    "back": "Images help verify anatomy, working position, and obturation as directed by the clinician."
+  },
+  {
+    "id": 377,
+    "chapter": 24,
+    "front": "What is an endodontic clamp?",
+    "back": "It secures isolation but must be controlled and accounted for."
+  },
+  {
+    "id": 378,
+    "chapter": 24,
+    "front": "Why protect the airway from paper points?",
+    "back": "Small items can be inhaled or swallowed and are difficult to retrieve."
+  },
+  {
+    "id": 379,
+    "chapter": 24,
+    "front": "How should files be counted?",
+    "back": "Count them before, during, and after treatment according to the office process."
+  },
+  {
+    "id": 380,
+    "chapter": 24,
+    "front": "Who determines canal treatment length?",
+    "back": "The dentist uses clinical findings and accepted technique to make that decision."
+  },
+  {
+    "id": 381,
+    "chapter": 25,
+    "front": "What is periodontal debridement?",
+    "back": "It removes plaque and calculus from tooth and root surfaces to support periodontal health."
+  },
+  {
+    "id": 382,
+    "chapter": 25,
+    "front": "What should be checked before surgery?",
+    "back": "Confirm consent, medical history, allergies, medicines, site, imaging, and equipment readiness."
+  },
+  {
+    "id": 383,
+    "chapter": 25,
+    "front": "Why is airway monitoring important in surgery?",
+    "back": "Blood, fluids, instruments, and debris can threaten breathing during treatment."
+  },
+  {
+    "id": 384,
+    "chapter": 25,
+    "front": "How should sharps be passed?",
+    "back": "Use a clear, controlled receiver and announce the sharp before transfer."
+  },
+  {
+    "id": 385,
+    "chapter": 25,
+    "front": "What is a surgical specimen?",
+    "back": "It is tissue removed for pathology assessment and must be traceable to patient and site."
+  },
+  {
+    "id": 386,
+    "chapter": 25,
+    "front": "What should be checked before specimen transfer?",
+    "back": "Verify patient, site, container, fixative, label, and requisition."
+  },
+  {
+    "id": 387,
+    "chapter": 25,
+    "front": "Why count sponges and needles?",
+    "back": "An unaccounted item can remain in the patient or surgical field."
+  },
+  {
+    "id": 388,
+    "chapter": 25,
+    "front": "What should be monitored during extraction?",
+    "back": "Airway, bleeding, responsiveness, comfort, and the position of all instruments."
+  },
+  {
+    "id": 389,
+    "chapter": 25,
+    "front": "What are common aftercare topics?",
+    "back": "Bleeding control, swelling, pain, eating, hygiene, activity, and warning signs."
+  },
+  {
+    "id": 390,
+    "chapter": 25,
+    "front": "Which symptoms need urgent review?",
+    "back": "Breathing difficulty, uncontrolled bleeding, spreading swelling, and severe worsening pain."
+  },
+  {
+    "id": 391,
+    "chapter": 25,
+    "front": "What is periodontal maintenance?",
+    "back": "It is ongoing risk-based review and care after periodontal treatment."
+  },
+  {
+    "id": 392,
+    "chapter": 25,
+    "front": "Why is tobacco support relevant?",
+    "back": "Tobacco increases periodontal risk and can reduce treatment response."
+  },
+  {
+    "id": 393,
+    "chapter": 25,
+    "front": "Can an assistant remove sutures anywhere?",
+    "back": "Only where regulation and training authorize the task."
+  },
+  {
+    "id": 394,
+    "chapter": 25,
+    "front": "What should happen after a coughing episode?",
+    "back": "Stop, support the airway, check the field, and decide with the dentist whether care can continue."
+  },
+  {
+    "id": 395,
+    "chapter": 25,
+    "front": "Why is consent still needed for surgery?",
+    "back": "The patient must authorize the specific surgical care after an appropriate risk discussion."
+  },
+  {
+    "id": 396,
+    "chapter": 26,
+    "front": "What is orthodontics?",
+    "back": "It manages tooth position and jaw relationships through planned force and growth guidance."
+  },
+  {
+    "id": 397,
+    "chapter": 26,
+    "front": "What records support orthodontics?",
+    "back": "Photographs, radiographs, scans, bite information, and appliance details record the starting condition."
+  },
+  {
+    "id": 398,
+    "chapter": 26,
+    "front": "Why count orthodontic wires?",
+    "back": "Small segments can injure tissue or enter the airway."
+  },
+  {
+    "id": 399,
+    "chapter": 26,
+    "front": "What is tell-show-do?",
+    "back": "It explains a step, demonstrates it, and then performs it at a manageable pace."
+  },
+  {
+    "id": 400,
+    "chapter": 26,
+    "front": "How should instructions be paced for a child?",
+    "back": "Use short, concrete language and check understanding without threats or shame."
+  },
+  {
+    "id": 401,
+    "chapter": 26,
+    "front": "What is a retainer?",
+    "back": "It helps maintain tooth position after active orthodontic treatment."
+  },
+  {
+    "id": 402,
+    "chapter": 26,
+    "front": "What should a patient do with a broken retainer?",
+    "back": "Store it safely and arrange prompt review because tooth movement may occur."
+  },
+  {
+    "id": 403,
+    "chapter": 26,
+    "front": "What increases caries risk with braces?",
+    "back": "Food and plaque collect around brackets, so cleaning takes more time and technique."
+  },
+  {
+    "id": 404,
+    "chapter": 26,
+    "front": "Why use extra oral hygiene tools with braces?",
+    "back": "Interdental brushes and floss aids can clean around wires and brackets."
+  },
+  {
+    "id": 405,
+    "chapter": 26,
+    "front": "What should be done for a knocked-out permanent tooth?",
+    "back": "Seek immediate dental or emergency guidance and follow current tooth-storage instructions."
+  },
+  {
+    "id": 406,
+    "chapter": 26,
+    "front": "Why avoid promising tooth survival?",
+    "back": "Outcome depends on injury, timing, storage, tissue condition, and clinical factors."
+  },
+  {
+    "id": 407,
+    "chapter": 26,
+    "front": "How should sensory distress be handled?",
+    "back": "Reduce stimulation, explain the step, offer safe breaks, and adjust the approach."
+  },
+  {
+    "id": 408,
+    "chapter": 26,
+    "front": "What is a sealant?",
+    "back": "It is a coating that protects susceptible pits and fissures from caries."
+  },
+  {
+    "id": 409,
+    "chapter": 26,
+    "front": "Who identifies orthodontic needs?",
+    "back": "The dentist or orthodontist assesses growth, alignment, function, and treatment options."
+  },
+  {
+    "id": 410,
+    "chapter": 26,
+    "front": "Why protect the eyes during wire work?",
+    "back": "Wire ends and small parts can injure the eye."
+  },
+  {
+    "id": 411,
+    "chapter": 27,
+    "front": "What is advanced dental care?",
+    "back": "It includes complex surgical, sedation, implant, hospital, and medically complex patient care."
+  },
+  {
+    "id": 412,
+    "chapter": 27,
+    "front": "What should be defined before advanced care?",
+    "back": "Team roles, supervision, consent, monitoring, emergency response, and recovery responsibilities."
+  },
+  {
+    "id": 413,
+    "chapter": 27,
+    "front": "Why use a readiness checklist?",
+    "back": "It verifies equipment and responsibilities before a high-risk procedure begins."
+  },
+  {
+    "id": 414,
+    "chapter": 27,
+    "front": "What monitoring may be used?",
+    "back": "Pulse, blood pressure, breathing, oxygen saturation, responsiveness, and pain may be monitored."
+  },
+  {
+    "id": 415,
+    "chapter": 27,
+    "front": "Why establish baseline values?",
+    "back": "A baseline makes later change easier to recognize and report."
+  },
+  {
+    "id": 416,
+    "chapter": 27,
+    "front": "Why are alarm trends important?",
+    "back": "A worsening trend can require action before a single value becomes critical."
+  },
+  {
+    "id": 417,
+    "chapter": 27,
+    "front": "What is sedation support?",
+    "back": "It is restricted to trained and authorized team members delivering care under the approved plan."
+  },
+  {
+    "id": 418,
+    "chapter": 27,
+    "front": "What must recovery include?",
+    "back": "Monitoring, escort, discharge instructions, and timing restrictions for driving or decisions."
+  },
+  {
+    "id": 419,
+    "chapter": 27,
+    "front": "Why track implant components?",
+    "back": "Small parts can be lost or misplaced and must be accounted for and documented."
+  },
+  {
+    "id": 420,
+    "chapter": 27,
+    "front": "What is accessible care?",
+    "back": "It adapts communication, positioning, equipment, and support to the patient's needs."
+  },
+  {
+    "id": 421,
+    "chapter": 27,
+    "front": "Does disability imply incapacity?",
+    "back": "No, communication or mobility needs do not by themselves remove decision-making capacity."
+  },
+  {
+    "id": 422,
+    "chapter": 27,
+    "front": "What is supported decision-making?",
+    "back": "It helps a patient understand and communicate a choice while respecting their rights."
+  },
+  {
+    "id": 423,
+    "chapter": 27,
+    "front": "What should happen if emergency suction is disconnected?",
+    "back": "Pause the procedure and correct the readiness problem before treatment continues."
+  },
+  {
+    "id": 424,
+    "chapter": 27,
+    "front": "Who decides medical consultation needs?",
+    "back": "The dentist or authorized clinician determines when medical input is required."
+  },
+  {
+    "id": 425,
+    "chapter": 27,
+    "front": "Why are medication interactions important?",
+    "back": "Sedation and advanced care can be affected by prescribed, over-the-counter, and non-prescribed substances."
+  },
+  {
+    "id": 426,
+    "chapter": 28,
+    "front": "What is individualized prevention?",
+    "back": "It is care planned around a patient's risk, abilities, preferences, and access."
+  },
+  {
+    "id": 427,
+    "chapter": 28,
+    "front": "What does fluoride do?",
+    "back": "It reduces demineralization and supports remineralization of tooth structure."
+  },
+  {
+    "id": 428,
+    "chapter": 28,
+    "front": "Why is fluoride not a substitute for brushing?",
+    "back": "Plaque disruption remains necessary for oral health."
+  },
+  {
+    "id": 429,
+    "chapter": 28,
+    "front": "What is a sealant?",
+    "back": "It covers susceptible pits and fissures to reduce caries risk."
+  },
+  {
+    "id": 430,
+    "chapter": 28,
+    "front": "What makes sealant retention more likely?",
+    "back": "A clean, isolated, dry tooth surface and correct placement technique."
+  },
+  {
+    "id": 431,
+    "chapter": 28,
+    "front": "Why is sealant follow-up needed?",
+    "back": "The sealant should be inspected for loss, leakage, or change."
+  },
+  {
+    "id": 432,
+    "chapter": 28,
+    "front": "What is teach-back in prevention?",
+    "back": "The patient demonstrates or explains the recommended oral care in their own words."
+  },
+  {
+    "id": 433,
+    "chapter": 28,
+    "front": "Why ask about barriers?",
+    "back": "Time, dexterity, cost, pain, culture, and access shape whether a plan is realistic."
+  },
+  {
+    "id": 434,
+    "chapter": 28,
+    "front": "What can help a patient with limited grip?",
+    "back": "Adaptive brushes, floss holders, interdental tools, and different positioning can improve access."
+  },
+  {
+    "id": 435,
+    "chapter": 28,
+    "front": "What is dry mouth?",
+    "back": "It is reduced salivary flow that increases caries and mucosal discomfort."
+  },
+  {
+    "id": 436,
+    "chapter": 28,
+    "front": "Why review medicines for dry mouth?",
+    "back": "Medication effects may contribute, and the clinician decides whether a medicine review is needed."
+  },
+  {
+    "id": 437,
+    "chapter": 28,
+    "front": "How are recall intervals chosen?",
+    "back": "They reflect caries risk, periodontal risk, medical change, and the clinician's plan."
+  },
+  {
+    "id": 438,
+    "chapter": 28,
+    "front": "Why should bleeding be explained calmly?",
+    "back": "Bleeding can reflect inflammation and does not automatically mean the patient should stop cleaning."
+  },
+  {
+    "id": 439,
+    "chapter": 28,
+    "front": "What should be done if hygiene is ineffective?",
+    "back": "Demonstrate another method and reassess the patient's technique and barriers."
+  },
+  {
+    "id": 440,
+    "chapter": 28,
+    "front": "Who may apply fluoride or sealants?",
+    "back": "Only an assistant with the required training, authority, and supervision."
+  },
+  {
+    "id": 441,
+    "chapter": 29,
+    "front": "What is dental anxiety?",
+    "back": "It is fear or distress about dental care that can affect comfort, cooperation, and avoidance."
+  },
+  {
+    "id": 442,
+    "chapter": 29,
+    "front": "Why agree on a stop signal?",
+    "back": "It gives the patient a clear way to communicate distress before treatment continues."
+  },
+  {
+    "id": 443,
+    "chapter": 29,
+    "front": "What should be observed during anxiety?",
+    "back": "Watch words, posture, breathing, pain, and changes in responsiveness."
+  },
+  {
+    "id": 444,
+    "chapter": 29,
+    "front": "Can painless treatment be promised?",
+    "back": "No, the team should explain comfort measures without guaranteeing an outcome."
+  },
+  {
+    "id": 445,
+    "chapter": 29,
+    "front": "What is local anaesthesia?",
+    "back": "It is clinician-administered medicine that reduces sensation in a defined area."
+  },
+  {
+    "id": 446,
+    "chapter": 29,
+    "front": "Who may administer local anaesthesia?",
+    "back": "Only a professional authorized by law and trained for that specific task."
+  },
+  {
+    "id": 447,
+    "chapter": 29,
+    "front": "What should be checked before anaesthesia?",
+    "back": "Review allergies, medicines, reactions, consent, and the monitoring plan."
+  },
+  {
+    "id": 448,
+    "chapter": 29,
+    "front": "What is a serious injection reaction?",
+    "back": "Breathing difficulty, facial swelling, collapse, seizure, or widespread rash may be serious."
+  },
+  {
+    "id": 449,
+    "chapter": 29,
+    "front": "What should happen for a serious reaction?",
+    "back": "Stop care, protect the airway, activate emergency help, and follow the protocol."
+  },
+  {
+    "id": 450,
+    "chapter": 29,
+    "front": "Why protect numb tissues?",
+    "back": "A patient may bite or burn the lip, cheek, or tongue without normal sensation."
+  },
+  {
+    "id": 451,
+    "chapter": 29,
+    "front": "What should be done with used needles?",
+    "back": "Place them directly in the approved rigid sharps container."
+  },
+  {
+    "id": 452,
+    "chapter": 29,
+    "front": "What is a pain rating?",
+    "back": "It is one part of pain assessment, used with location, timing, quality, and function."
+  },
+  {
+    "id": 453,
+    "chapter": 29,
+    "front": "How should children report pain?",
+    "back": "Use age-appropriate tools, behaviour, caregiver knowledge, and direct observation."
+  },
+  {
+    "id": 454,
+    "chapter": 29,
+    "front": "What if the stop signal is used?",
+    "back": "Pause, check the patient, and decide the next safe step with the clinician."
+  },
+  {
+    "id": 455,
+    "chapter": 29,
+    "front": "Why does patient control matter?",
+    "back": "Predictability and choice can reduce fear even when the clinical procedure is unchanged."
+  },
+  {
+    "id": 456,
+    "chapter": 30,
+    "front": "What is a dental emergency?",
+    "back": "It is a sudden condition that threatens safety or requires urgent clinical action."
+  },
+  {
+    "id": 457,
+    "chapter": 30,
+    "front": "Why assign emergency roles?",
+    "back": "Clear responsibility improves equipment delivery, communication, and patient care."
+  },
+  {
+    "id": 458,
+    "chapter": 30,
+    "front": "What is the first emergency action?",
+    "back": "Stop treatment and assess safety, the field, airway, breathing, and responsiveness."
+  },
+  {
+    "id": 459,
+    "chapter": 30,
+    "front": "What is closed-loop communication?",
+    "back": "The receiver repeats an instruction and the sender confirms it was heard correctly."
+  },
+  {
+    "id": 460,
+    "chapter": 30,
+    "front": "What is syncope?",
+    "back": "It is fainting that can follow pain, stress, heat, dehydration, or prolonged posture."
+  },
+  {
+    "id": 461,
+    "chapter": 30,
+    "front": "How is a fainting patient positioned?",
+    "back": "Protect the airway and use a safe position from the approved emergency protocol."
+  },
+  {
+    "id": 462,
+    "chapter": 30,
+    "front": "What is hypoglycaemia?",
+    "back": "It is low blood glucose that can cause tremor, sweating, confusion, or collapse."
+  },
+  {
+    "id": 463,
+    "chapter": 30,
+    "front": "How is unresponsive hypoglycaemia managed?",
+    "back": "Do not place food or drink in the mouth; call emergency help and follow the airway protocol."
+  },
+  {
+    "id": 464,
+    "chapter": 30,
+    "front": "What is an allergic reaction?",
+    "back": "It can range from hives to facial swelling, breathing difficulty, and collapse."
+  },
+  {
+    "id": 465,
+    "chapter": 30,
+    "front": "What should happen during a seizure?",
+    "back": "Protect the patient from injury, do not restrain, time it when possible, and assess after movement stops."
+  },
+  {
+    "id": 466,
+    "chapter": 30,
+    "front": "What is choking?",
+    "back": "It is obstruction of the airway that requires current choking guidance and emergency action."
+  },
+  {
+    "id": 467,
+    "chapter": 30,
+    "front": "What should happen after suspected aspiration?",
+    "back": "Arrange clinical review even if the patient seems to recover."
+  },
+  {
+    "id": 468,
+    "chapter": 30,
+    "front": "What are adult CPR compressions?",
+    "back": "Use 100 to 120 per minute at 5 to 6 centimetres of depth according to current training."
+  },
+  {
+    "id": 469,
+    "chapter": 30,
+    "front": "What is an AED?",
+    "back": "It is a device that analyzes heart rhythm and delivers a shock when indicated."
+  },
+  {
+    "id": 470,
+    "chapter": 30,
+    "front": "What belongs in emergency documentation?",
+    "back": "Record times, findings, actions, response, transfer, equipment used, and restocking needs."
+  },
+  {
+    "id": 471,
+    "chapter": 31,
+    "front": "What is quality improvement?",
+    "back": "It is a planned process of measuring care, testing changes, and learning from variation."
+  },
+  {
+    "id": 472,
+    "chapter": 31,
+    "front": "What does PDSA mean?",
+    "back": "It means Plan, Do, Study, and Act."
+  },
+  {
+    "id": 473,
+    "chapter": 31,
+    "front": "What is a useful quality measure?",
+    "back": "It is defined, repeatable, relevant, and interpreted within its clinical system."
+  },
+  {
+    "id": 474,
+    "chapter": 31,
+    "front": "What is a near miss?",
+    "back": "It is an event that might have caused harm but did not reach the patient."
+  },
+  {
+    "id": 475,
+    "chapter": 31,
+    "front": "Why report near misses?",
+    "back": "They reveal weak systems before a patient is injured."
+  },
+  {
+    "id": 476,
+    "chapter": 31,
+    "front": "What is human factors thinking?",
+    "back": "It designs tasks and environments to reduce error from memory, fatigue, and interruption."
+  },
+  {
+    "id": 477,
+    "chapter": 31,
+    "front": "What is a checklist?",
+    "back": "It is a structured verification tool that supports critical tasks when used with understanding."
+  },
+  {
+    "id": 478,
+    "chapter": 31,
+    "front": "What is a just culture?",
+    "back": "It encourages reporting while distinguishing human error, at-risk behaviour, and reckless conduct."
+  },
+  {
+    "id": 479,
+    "chapter": 31,
+    "front": "What is professional competence?",
+    "back": "It is maintaining the knowledge, skills, judgement, and behaviour required for safe practice."
+  },
+  {
+    "id": 480,
+    "chapter": 31,
+    "front": "Why reflect on complaints?",
+    "back": "Feedback can reveal system gaps, communication problems, or learning needs."
+  },
+  {
+    "id": 481,
+    "chapter": 31,
+    "front": "What should happen after an incident?",
+    "back": "Protect the patient, document facts, report, investigate, and improve the system."
+  },
+  {
+    "id": 482,
+    "chapter": 31,
+    "front": "Why avoid blame in improvement?",
+    "back": "Blame discourages reporting and hides the conditions that produced the error."
+  },
+  {
+    "id": 483,
+    "chapter": 31,
+    "front": "What is continuing education?",
+    "back": "It is ongoing learning that maintains and develops professional competence."
+  },
+  {
+    "id": 484,
+    "chapter": 31,
+    "front": "What is a safety huddle?",
+    "back": "It is a short team conversation about risks, staffing, equipment, and coordination."
+  },
+  {
+    "id": 485,
+    "chapter": 31,
+    "front": "What should happen after a drill?",
+    "back": "Debrief, correct gaps, restock, and practise the changed process."
+  },
+  {
+    "id": 486,
+    "chapter": 32,
+    "front": "What is the NDAEB theory format?",
+    "back": "It has 200 computer-based multiple-choice items and a four-hour limit."
+  },
+  {
+    "id": 487,
+    "chapter": 32,
+    "front": "How many domains does the NDAEB use?",
+    "back": "The theory blueprint uses seven content domains."
+  },
+  {
+    "id": 488,
+    "chapter": 32,
+    "front": "What is this textbook simulator?",
+    "back": "It is an independent 300-question practice tool, not the official examination."
+  },
+  {
+    "id": 489,
+    "chapter": 32,
+    "front": "What is spaced practice?",
+    "back": "It reviews material across several separated sessions to support retention."
+  },
+  {
+    "id": 490,
+    "chapter": 32,
+    "front": "How should errors be studied?",
+    "back": "Review the reasoning, identify the missed concept, and revisit it later."
+  },
+  {
+    "id": 491,
+    "chapter": 32,
+    "front": "Why use mixed practice?",
+    "back": "It helps learners choose the right knowledge when topics are not labelled in advance."
+  },
+  {
+    "id": 492,
+    "chapter": 32,
+    "front": "What should precede NDAEB application?",
+    "back": "Confirm program eligibility, documents, dates, fees, identification, and any accommodation needs."
+  },
+  {
+    "id": 493,
+    "chapter": 32,
+    "front": "What comes after certification?",
+    "back": "Apply to the province or territory where you will work and meet its requirements."
+  },
+  {
+    "id": 494,
+    "chapter": 32,
+    "front": "What should a résumé show?",
+    "back": "Use specific examples of education, clinical skills, safety, communication, and reliability."
+  },
+  {
+    "id": 495,
+    "chapter": 32,
+    "front": "What should an interview example include?",
+    "back": "Describe the situation, action, result, and learning without exposing patient information."
+  },
+  {
+    "id": 496,
+    "chapter": 32,
+    "front": "What should be clarified before accepting a task?",
+    "back": "The legal authority, required supervision, training, and employer policy."
+  },
+  {
+    "id": 497,
+    "chapter": 32,
+    "front": "Why keep credentials current?",
+    "back": "Expired registration, CPR, or required education can prevent lawful practice."
+  },
+  {
+    "id": 498,
+    "chapter": 32,
+    "front": "What should be learned in the first month?",
+    "back": "Office systems, emergency roles, sterilization, imaging, records, and reporting routes."
+  },
+  {
+    "id": 499,
+    "chapter": 32,
+    "front": "Why ask where policies are stored?",
+    "back": "The assistant needs quick access to current procedures during real care."
+  },
+  {
+    "id": 500,
+    "chapter": 32,
+    "front": "What is reflective practice?",
+    "back": "It turns experience and feedback into deliberate improvement."
+  }
+]
